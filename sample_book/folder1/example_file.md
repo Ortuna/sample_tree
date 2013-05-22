@@ -2,7 +2,8 @@
 title: First Section
 author: example author
 ----
-First Example Post from file
+
+A cool title
 =====
 
 This page offers a brief overview of what it's like to use Markdown.
