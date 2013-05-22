@@ -55,7 +55,6 @@ end
 
 
 ## How Code is edited on the backend ##
-[![back end](http://i.imgur.com/FyuW0jS.png)](http://i.imgur.com/FyuW0jS.png)
 
 This page offers a brief overview of what it's like to use Markdown.
 The [syntax page] [s] provides complete, detailed documentation for
