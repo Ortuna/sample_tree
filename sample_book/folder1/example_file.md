@@ -1,7 +1,7 @@
-----------
-title: Section 1
+---
+title: First Section
 author: example author
-----------
+----
 First Example Post from file
 =====
 
